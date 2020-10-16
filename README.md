@@ -14,3 +14,7 @@ Detalhes de um orfatano fictício
 
 
 ![Capturar4](https://user-images.githubusercontent.com/13524043/96310848-8d237680-0fde-11eb-809d-47a277d0285b.PNG)
+
+
+Também foi feita a app mobile multiplataforma utilizando React-native + Expo. Composto por 3 partes, Busca de orfanatos, tela de cadastro e detalhes de um orfanato escolhido.
+
